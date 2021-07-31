@@ -5,7 +5,7 @@
     body >
 
     <
-    h2 > My First JavaScript < /h2>
+    h2 > My First JavaScript Program < /h2>
 
     <
     button type = "button"
